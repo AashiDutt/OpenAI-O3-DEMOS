@@ -1,0 +1,77 @@
+{
+  "Weather": {
+    "Definition": "The state of the atmosphere at a particular place and time, including temperature, humidity, precipitation, wind, and visibility.",
+    "Subtopics": {
+      "Atmospheric Conditions": {
+        "Temperature": {
+          "Factors": [
+            "Latitude",
+            "Altitude",
+            "Time of Year"
+          ],
+          "Effects": [
+            "Heatwaves",
+            "Cold Snaps"
+          ]
+        },
+        "Humidity": {
+          "Types": [
+            "Absolute Humidity",
+            "Relative Humidity"
+          ],
+          "Effects": [
+            "Comfort Levels",
+            "Precipitation"
+          ]
+        },
+        "Pressure": {
+          "High Pressure": {
+            "Effects": [
+              "Clear Skies",
+              "Calm Weather"
+            ]
+          },
+          "Low Pressure": {
+            "Effects": [
+              "Cloudy Skies",
+              "Storms"
+            ]
+          }
+        }
+      },
+      "Precipitation": {
+        "Types": [
+          "Rain",
+          "Snow",
+          "Sleet",
+          "Hail"
+        ],
+        "Causes": [
+          "Condensation",
+          "Cloud Formation"
+        ]
+      },
+      "Wind": {
+        "Causes": [
+          "Pressure Differences",
+          "Earth's Rotation"
+        ],
+        "Effects": [
+          "Wind Chill",
+          "Storms"
+        ]
+      },
+      "Visibility": {
+        "Factors": [
+          "Fog",
+          "Rain",
+          "Snow"
+        ],
+        "Effects": [
+          "Travel Safety",
+          "Outdoor Activities"
+        ]
+      }
+    }
+  }
+}
